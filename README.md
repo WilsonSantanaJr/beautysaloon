@@ -1,5 +1,5 @@
 # beautysaloon
-Projeto de um site sobre salão de beleza.
+Projeto da rocketseat nlw um site sobre salão de beleza.
 
 ![preview](./github/preview.png)
 [Clique aqui para acessar](https://wilsonsantanajr.github.io/beautysaloon/)
